@@ -1,7 +1,5 @@
 "use client";
 import ChatSender from '@/components/chat';
-import { useState } from 'react';
-import { FaArrowUp, FaChevronDown } from "react-icons/fa";
 
 export default function Home() {
 

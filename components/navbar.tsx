@@ -10,7 +10,7 @@ import { TbMinusVertical } from "react-icons/tb";
 
 
 
-type Props = {};
+type Props = Record<string, never>;
 
 type Timeline = {
     label: string;
